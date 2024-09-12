@@ -1,0 +1,28 @@
+
+### **.gitignore**
+```gitignore
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+
+# Dependency directories
+node_modules/
+
+# Debug files
+.DS_Store
+
+# Optional runtime files
+package-lock.json
+
+# Build files
+dist/
+build/
